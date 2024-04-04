@@ -1,4 +1,4 @@
-# Muer
+# Muer [![Netlify Status](https://api.netlify.com/api/v1/badges/dee02fd5-81c3-4ad6-84f7-f8a8475bb4dc/deploy-status)](https://app.netlify.com/sites/muer02/deploys)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/muer-org/muer?quickstart=1)
 
 Muer is a modern, open-source music player for you and your friends. 
